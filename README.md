@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Analista de Dados<br>- Estudante de tecnologia em banco de dados @UNINTER<br>-  Certificado Google Data Analytics @Coursera<br>- Certificado Power BI aplicado a negócios @Voitto</p>
+<p align="left">- Analista de Dados<br>- Estudante de Tecnologia em banco de dados e Gestão da defesa e seguranca cibernética @UNINTER<br>-  Certificado Google Data Analytics @Coursera<br>- Certificado Power BI aplicado a negócios @Voitto</p>
 
 ###
 
