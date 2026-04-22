@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Instrutora de programação, robótica e AI <br>- Banco de Dados @UNINTER<br>- Gestão da Defesa e Seguranca Cibernética @UNINTER<br>- Certificação Google Data Analytics @Coursera<br>- Certificação Power BI aplicado a negócios @Voitto<br>- Certificação Análise de Dados e Inteligência de Negócios @Gran</p>
+<p align="left">- Instrutora de Programação, Robótica e AI <br>- Banco de Dados @UNINTER<br>- Gestão da Defesa e Seguranca Cibernética @UNINTER<br>- Certificação Google Data Analytics @Coursera<br>- Certificação Power BI aplicado a negócios @Voitto<br>- Certificação Análise de Dados e Inteligência de Negócios @Gran</p>
 
 ###
 
