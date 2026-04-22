@@ -31,8 +31,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="sql server logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
 
  
