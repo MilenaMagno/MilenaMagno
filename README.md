@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Analista de Dados<br>- Estudante de Tecnologia em banco de dados e Gestão da defesa e seguranca cibernética @UNINTER<br>-  Certificado Google Data Analytics @Coursera<br>- Certificado Power BI aplicado a negócios @Voitto<br>- Certificado Primeiros Passos com Java @DIO<br>- Certificado Análise de Dados e Inteligência de Negócios @Gran</p>
+<p align="left">- Instrutora de programação, robótica e AI <br>- Banco de Dados @UNINTER<br>- Gestão da Defesa e Seguranca Cibernética @UNINTER<br>- Certificação Google Data Analytics @Coursera<br>- Certificação Power BI aplicado a negócios @Voitto<br>- Certificação Análise de Dados e Inteligência de Negócios @Gran</p>
 
 ###
 
